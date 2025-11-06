@@ -1,4 +1,4 @@
-# Hi 👋! My name is Ankush, and I'm a Developer from India!
+# Hi 👋! My name is Ankush!
 
 ## 👨‍💻 About Me:
 
