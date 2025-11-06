@@ -1,13 +1,13 @@
-# Hi 👋! My name is Ankush!
+# Hi! My name is Ankush!
 
 ## 👨‍💻 About Me:
 
-🌱 Currently exploring **Generative AI** and advanced machine learning techniques.
-🔧 I am proficient in **Machine Learning, Deep Learning, NLP, and Computer Vision**.
-💻 Skilled in **full-stack development** with a focus on the **MERN stack** (MongoDB, Express.js, React, Node.js).
-🎨 Check out my projects on [GitHub](https://github.com/Ankushsph)
+ Currently exploring **Generative AI** and advanced machine learning techniques.
+ I am proficient in **Machine Learning, Deep Learning, NLP, and Computer Vision**.
+ Skilled in **full-stack development** with a focus on the **MERN stack** (MongoDB, Express.js, React, Node.js).
+ Check out my projects on [GitHub](https://github.com/Ankushsph)
 📧 Reach me on [LinkedIn](https://www.linkedin.com/in/ankush-n-161256302/)
-📄 Know more about my experience and projects!
+ Know more about my experience and projects!
 
 ---
 
