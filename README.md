@@ -18,16 +18,6 @@
 
 ---
 
-## 🚀 Recent Achievements:
-
-⭐ **Best Recognition Award** - SparkLab 2025 for AI-IoT waste segregation product
-🥇 **Top 8 Finalist** - MathWorks Hackathon 2024
-🎯 **National Finalist** - Smart India Hackathon 2024
-🥉 **3rd Place** - Space Day DSCE (Mineral detection ML)
-📝 **IEEE Published** - Research paper on Petrol Pump Management System
-
----
-
 ## 💻 Tech Stack:
 
 ### Languages:
