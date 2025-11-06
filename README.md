@@ -45,37 +45,9 @@
 
 ---
 
-## 💡 Featured Projects:
-
-### 🛠️ AI-Based Waste Management System
-- Designed smart hardware for automated waste sorting using ML & IoT
-- Real-time weight measurement and vending-based rewards system
-- **Tech:** Machine Learning, IoT, Embedded Hardware
-
-### ⛽ Petrol Pump Management System
-- Full-stack MERN application for fuel dispensing and inventory
-- 30% performance boost with optimized backend
-- **Published:** IEEE Xplore (Scopus-Indexed)
-
-### 🌍 Minerals/Gold Detection System
-- ML model for predicting mineral probability from geospatial data
-- Achieved 85% accuracy
-- **Tech:** Python, scikit-learn, pandas
-
----
-
 ## 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushsph&layout=compact&theme=radical)
-
----
-
-## 💼 Experience:
-
-🔹 **Research Analyst** - Concentrix (Google Client) | 2025
-🔹 **Market Analyst** - Sannidhi Prakritik Paint | 2022-Present
-🔹 **Co-Founder & Team Lead** - Recursion Club (Mentored 50+ students)
-🔹 **Developer** - SHARPGURUS (SAP BTP Development)
 
 ---
 
