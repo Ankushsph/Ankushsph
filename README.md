@@ -12,7 +12,7 @@
 🔧 Proficient in **Machine Learning, Deep Learning, NLP, and Computer Vision**
 💻 Skilled in **full-stack development** with focus on **MERN stack** (MongoDB, Express.js, React, Node.js)
 🏆 **National Hackathon Finalist** - Smart India Hackathon 2024
-📝 **Research Author** - Published paper on Petrol Pump Management System (IEEE Xplore)
+📝 **Research Author** - Published paper on Petrol Pump Management System
 🛠️ Working with **SAP BTP** for business applications development
 💼 Former **Research Analyst** at Concentrix (Google client)
 
